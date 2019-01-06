@@ -1,6 +1,6 @@
 # Option-Pricing
 
-*1. Binomial Methods for Option Pricing [Python]
+1. Binomial Methods for Option Pricing [Python]
 * Convergence Rate of Different Binomial Mthods
 * Price Options using Real-time Data
 * Greeks Estimation using Binomial Method
