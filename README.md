@@ -2,9 +2,9 @@
 
 1. Binomial Methods for Option Pricing [Python]
   
-## Convergence Rate of Different Binomial Mthods
-## Price Options using Real-time Data
-## Greeks Estimation using Binomial Method
-## Binomial Method for Put Option
-## Trinomial Method
-## Binomial Method using Halton's Low-discrepancy Sequence
+  a. Convergence Rate of Different Binomial Mthods
+  b. Price Options using Real-time Data
+  c. Greeks Estimation using Binomial Method
+  d. Binomial Method for Put Option
+  e. Trinomial Method
+  f. Binomial Method using Halton's Low-discrepancy Sequence
